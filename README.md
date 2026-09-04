@@ -7,7 +7,7 @@
   - [osTicket: Ticket Lifecycle](https://github.com/Liamjanisse1997/osTicket-Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
   - [Azure compute and Networking](https://github.com/Liamjanisse1997/Azure-Compute-and-Networking)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Liamjanisse1997/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Liamjanisse1997/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 
 
