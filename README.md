@@ -2,9 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-
-  - [osTicket: Ticket Lifecycle](https://github.com/Liamjanisse1997/osTicket-Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
   - [Azure compute and Networking](https://github.com/Liamjanisse1997/Azure-Compute-and-Networking)
   
